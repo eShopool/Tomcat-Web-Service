@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/library/LoadBalance.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/photoServlet/GetCosmeticsTXT.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/photoServlet/GetElectronicsTXT.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/photoServlet/GetHomepageTXT.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/photoServlet/GetNecessitiesTXT.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/photoServlet/SearchItems.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/photoServlet/deleteCommodity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/photoServlet/updateCommodity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servletDemo/ServletDemo.java" charset="GBK" />
+  </component>
+</project>
