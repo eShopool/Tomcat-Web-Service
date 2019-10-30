@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebPicStream">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebPicStream</output-path>
+    <root id="archive" name="WebPicStream.war" />
+  </artifact>
+</component>

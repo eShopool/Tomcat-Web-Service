@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+
+    <servlet>
+        <servlet-name>GetNecessitiesTXT</servlet-name>
+        <servlet-class>photoServlet.GetNecessitiesTXT</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GetNecessitiesTXT</servlet-name>
+        <url-pattern>/GetNecessitiesTXT</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>GetCosmeticsTXT</servlet-name>
+        <servlet-class>photoServlet.GetCosmeticsTXT</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GetCosmeticsTXT</servlet-name>
+        <url-pattern>/GetCosmeticsTXT</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>GetElectronicsTXT</servlet-name>
+        <servlet-class>photoServlet.GetElectronicsTXT</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GetElectronicsTXT</servlet-name>
+        <url-pattern>/GetElectronicsTXT</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>GetHomepageTXT</servlet-name>
+        <servlet-class>photoServlet.GetHomepageTXT</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GetHomepageTXT</servlet-name>
+        <url-pattern>/GetHomepageTXT</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>SearchItems</servlet-name>
+        <servlet-class>photoServlet.SearchItems</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SearchItems</servlet-name>
+        <url-pattern>/SearchItems</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>CreateAccount</servlet-name>
+        <servlet-class>photoServlet.CreateAccount</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CreateAccount</servlet-name>
+        <url-pattern>/CreateAccount</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DeleteAccount</servlet-name>
+        <servlet-class>photoServlet.DeleteAccount</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DeleteAccount</servlet-name>
+        <url-pattern>/DeleteAccount</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DeletePhoto</servlet-name>
+        <servlet-class>photoServlet.DeletePhoto</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DeletePhoto</servlet-name>
+        <url-pattern>/DeletePhoto</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>GetPhoto</servlet-name>
+        <servlet-class>photoServlet.GetPhoto</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GetPhoto</servlet-name>
+        <url-pattern>/GetPhoto</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>GetPortrait</servlet-name>
+        <servlet-class>photoServlet.GetPortrait</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GetPortrait</servlet-name>
+        <url-pattern>/GetPortrait</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>UpdatePhoto</servlet-name>
+        <servlet-class>photoServlet.UpdatePhoto</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UpdatePhoto</servlet-name>
+        <url-pattern>/UpdatePhoto</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>UpdateResult</servlet-name>
+        <servlet-class>photoServlet.UpdateResult</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UpdateResult</servlet-name>
+        <url-pattern>/UpdateResult</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>UploadPortrait</servlet-name>
+        <servlet-class>photoServlet.UploadPortrait</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UploadPortrait</servlet-name>
+        <url-pattern>/UploadPortrait</url-pattern>
+    </servlet-mapping>
+
+</web-app>
