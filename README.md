@@ -10,7 +10,7 @@ Install Apache Tomcat on Windows 10: https://www.youtube.com/watch?v=grW6afp8yE4
 
 Install Apache Tomcat on Ubuntu 16.04: https://www.youtube.com/watch?v=KoXiRXjZgwc.
 
-# 2. Feature
+# 2. Features
 
 * Create or delete an account.
 
