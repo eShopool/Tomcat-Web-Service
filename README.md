@@ -5,6 +5,9 @@ Table of Contents
    * [2. Features](#2-features)
    
 # Tomcat-Web-Service
+[![LICENSE](https://img.shields.io/hexpm/l/plug)](https://github.com/eShopool/Android-Application/blob/master/LICENSE)
+[![JDK](https://img.shields.io/badge/JDK-8u144%20-orange.svg)](https://www.oracle.com/technetwork/java/javase/8u144-relnotes-3838694.html)
+[![Dependencies](https://img.shields.io/badge/Dependencies-up%20to%20date-green.svg)](https://mvnrepository.com/artifact/mysql/mysql-connector-java/5.1.23)
 
 # 1. Install and configure Apache Tomcat 9:
 
